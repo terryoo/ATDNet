@@ -7,4 +7,12 @@ The network is trained with bigger patches than ICIP 2019.
 # Experimental Results
 
 ## Gaussian Denoising Results
-![Gaussian Noise Gray](https://github.com/terryoo/ATDNet/figs/figure_gaussian_gray.png)
+<img src = "/figs/figure_gaussian_gray.PNG" width="900">
+The comparison of gray channel denoisers. 
+
+<img src = "/figs/figure_gaussian_color.PNG" width="900">
+The comparison of color channel denoisers. 
+
+## Real Noise Denoising Results
+<img src = "/figs/figure_real.PNG" width="900">
+The comparison of gray channel denoisers. 

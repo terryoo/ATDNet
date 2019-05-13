@@ -7,3 +7,4 @@ The network is trained with bigger patches than ICIP 2019.
 # Experimental Results
 
 ## Gaussian Denoising Results
+![Gaussian Noise Gray](https://github.com/terryoo/ATDNet/figs/figure_gaussian_gray.png)

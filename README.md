@@ -1,7 +1,11 @@
-# Adaptively Tuning a Convolutional Neural Network by Gate Process for Image Denoising (ACCESS 2019)
-Extentition version of Adaptively Tuning a Convolutional Neural Network by Gating Process for Image Denoising (ICIP 2019).
-It additionally includes the pixel-wise noise level estimator, therefore it can process spatially variant noisy images.
-The network is trained more sophiscatedly such as data augmentation and bigger patch size than ICIP 2019.
+# Adaptively Tuning a Convolutional Neural Network by Gating Process for Image Denoising (IEEE ICIP 2019)
+# Abstract
+# Network Architecture
+
+# Adaptively Tuning a Convolutional Neural Network by Gate Process for Image Denoising (IEEE Access 2019)
+This JOURNAL paper is the extended version of ICIP 2019 Conference Paper above. 
+The most significant change from the ICIP version is to make the network spatially adaptive. In realistic environments, the noise is usually spatially variant, i.e., the noise variance changes gradually abruptly depending on the regions. Hence, for dealing with the realistic noises, we made the noise-level estimator spatially adaptive such that it estimates pixel-wise noise variance. Also, the network is trained more sophisticatedly such as data augmentation and bigger patch size than ICIP 2019. As a result, this version works better for real-noises and spatially varying noises.
+
 # Abstract
 # Network Architecture
 # Experimental Results

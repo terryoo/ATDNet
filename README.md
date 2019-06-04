@@ -12,8 +12,11 @@ This paper presents a new framework that controls feature maps of a convolutiona
 ## Network Architecture
 <img src = "/figs/figure_icip.png" width="900">
 The architecture of ATDNet
-<img src = "/figs/figure_icip_resblock.png" width="500">
+<img src = "/figs/figure_icip_resblock.png" width="450">
 The proposed Gate-ResBlock
+
+## Experimental Results
+<img src = "/figs/icip_table.PNG" width="900">
 
 # Adaptively Tuning a Convolutional Neural Network by Gate Process for Image Denoising (IEEE Access 2019)
 This JOURNAL paper is the extended version of ICIP 2019 Conference Paper above. 
@@ -30,10 +33,13 @@ The conventional image denoising methods based on the convolutional neural netwo
 ## Network Architecture
 <img src = "/figs/figure_access.png" width="900">
 The architecture of ATDNet
-<img src = "/figs/figure_icip_resblock.png" width="500">
+<img src = "/figs/figure_icip_resblock.png" width="450">
 The proposed Gate-ResBlock
 
 ## Experimental Results
+
+<img src = "/figs/access_table1.PNG" width="900">
+<img src = "/figs/access_table2.PNG" width="450">
 
 ### Gaussian Denoising Results
 <img src = "/figs/figure_gaussian_gray.PNG" width="900">

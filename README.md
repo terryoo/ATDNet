@@ -22,6 +22,9 @@ The proposed Gate-ResBlock
 This JOURNAL paper is the extended version of ICIP 2019 Conference Paper above. 
 The most significant change from the ICIP version is to make the network spatially adaptive. In realistic environments, the noise is usually spatially variant, i.e., the noise variance changes gradually or abruptly depending on the regions. Hence, for dealing with the realistic noises, we made the noise-level estimator spatially adaptive such that it estimates pixel-wise noise variance. Also, the network is trained more sophisticatedly such as data augmentation and bigger patch size than ICIP 2019. As a result, this version works better for real-noises and spatially varying noises.
 
+## Paper
+[**IEEE Access Paper**](https://ieeexplore.ieee.org/document/8717639)
+
 ## Test Code
 [**Access Code**]
 

@@ -55,7 +55,7 @@ The comparison of color channel denoisers.
 <img src = "/figs/figure_real.PNG" width="900">
 The comparison of gray channel denoisers. 
 
-### Citation
+## Citation
 ```
 @article{kim2019adaptively,
   title={Adaptively Tuning a Convolutional Neural Network by Gate Process for Image Denoising},

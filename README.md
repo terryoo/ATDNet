@@ -1,6 +1,6 @@
 # Adaptively Tuning a Convolutional Neural Network by Gating Process for Image Denoising (IEEE ICIP 2019)
 ## Test Code
-[**ICIP Code**]
+[**ICIP Code**](https://github.com/terryoo/ATDNet/tree/master/icip)
 
 [**Trained Model**]
 

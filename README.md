@@ -2,7 +2,7 @@
 ## Test Code
 [**ICIP Code**](https://github.com/terryoo/ATDNet/tree/master/icip)
 
-[**Trained Model**]
+[**Trained Model**](https://drive.google.com/drive/folders/1KjxUG0JbiiLxzTw0CVh5hLf6MGMU8x0h?usp=sharing)
 
 
 ## Abstract

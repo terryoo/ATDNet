@@ -36,7 +36,7 @@ The conventional image denoising methods based on the convolutional neural netwo
 ## Network Architecture
 <img src = "/figs/figure_access.png" width="900">
 The architecture of ATDNet
-<img src = "/figs/figure_icip_resblock.png" width="450">
+<img src = "/figs/figure_access_block.png" width="450">
 The proposed Gate-ResBlock
 
 ## Experimental Results

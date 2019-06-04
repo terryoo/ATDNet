@@ -13,7 +13,7 @@ parser.add_argument('--use_gpu', dest='use_gpu', type=int, default=1, help='gpu 
 parser.add_argument('--noise_sigma', dest='noise_sigma', type=int, default=50, help='noise level')
 parser.add_argument('--model_sigma', dest='model_sigma', type=int, default=50, help='model or applied sigma level')
 parser.add_argument('--phase', dest='phase', default='test', help='test')
-parser.add_argument('--checkpoint_dir', dest='ckpt_dir', default='./ATDNETW', help='models are saved here') # option ./ATDNET or ./ATDNETW
+parser.add_argument('--checkpoint_dir', dest='ckpt_dir', default='./icip_mode/ATDNETW', help='models are saved here') # option ./ATDNET or ./ATDNETW
 parser.add_argument('--test_set', dest='test_set', default='./testset/BSD68/', help='dataset for testing')
 parser.add_argument('--result_dir', dest='result_dir', default='./results/', help='test sample are saved here')
 args = parser.parse_args()

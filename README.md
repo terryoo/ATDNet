@@ -26,9 +26,9 @@ The most significant change from the ICIP version is to make the network spatial
 [**IEEE Access Paper**](https://ieeexplore.ieee.org/document/8717639)
 
 ## Test Code
-[**Access Code**]
+[**Access Code**](https://github.com/terryoo/ATDNet/tree/master/access)
 
-[**Trained Model**]
+[**Trained Model**](https://drive.google.com/open?id=1sS_Bvk5DWKOCF8liIrFr23A_bXw3E3hA)
 
 ## Abstract
 The conventional image denoising methods based on the convolutional neural network (CNN) focus on the non-blind training, and hence many networks are required to cope with various noise levels at the test. Although there are blind training methods that deal with multiple noise levels with a single network, their performance gain is generally lower than the non-blind ones, especially at low noise levels. In this paper, we propose a new denoising scheme that controls the feature maps of a single denoising network according to the noise level at the test phase, without changing the network parameters. This is achieved by employing a gating scheme where the feature maps of the denoising network are multiplied with appropriate weights from a gate-weight generating network which is trained along with the denoising network. We train the overall network on a wide range of noise level such that the proposed method can be used for both blind and non-blind cases. Experiments show that the proposed system yields better denoising performance than the other CNN-based methods, especially for the untrained noise levels. Finally, it is shown that the proposed system can manage spatially variant unknown noises and real noises without changing the whole CNN parameters.

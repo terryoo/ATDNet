@@ -54,9 +54,11 @@ The comparison of color channel denoisers.
 ### Real Noise Denoising Results
 <img src = "/figs/figure_real.PNG" width="900">
 The comparison of gray channel denoisers. 
-## Requirements and Dependencies* 
+
+## Requirements and Dependencies 
 * Cuda-8.0 & cuDNN v-6.0
 * Tensorflow 1.4.0
+
 ## Citation
 ```
 @article{kim2019adaptively,
